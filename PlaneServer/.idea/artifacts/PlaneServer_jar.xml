@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PlaneServer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PlaneServer_jar</output-path>
+    <root id="archive" name="PlaneServer.jar">
+      <element id="module-output" name="PlaneServer" />
+      <element id="library" level="project" name="R User Library" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/netty-4.1.8.Final/jar/all-in-one/netty-all-4.1.8.Final.jar" path-in-jar="/" />
+      <element id="library" level="application" name="R Skeletons" />
+    </root>
+  </artifact>
+</component>
